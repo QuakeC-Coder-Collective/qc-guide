@@ -22,7 +22,7 @@
         * Syntax and types
       * Overview of defs.qc, including brief overview of the built-ins
 
-   3. [Functions](chapter-2.md#functions)
+   3. [User-Defined Functions](chapter-2.md#user-defined-functions)
       * Function declaration syntax
       * Overview of subs.qc
 
