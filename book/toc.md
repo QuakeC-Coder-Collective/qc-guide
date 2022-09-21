@@ -12,8 +12,8 @@
 2. [Anatomy of a Mod](chapter-2.md)
 
    1. [Source Files](chapter-2.md#source-files)
-      * Describe the build process and the format of progs.src
-      * Brief description of the source files
+      * Describes the build process and the format of progs.src
+      * Briefly describes the each of the source files
 
    2. [Globals, Fields, and Built-ins](chapter-2.md#globals-fields-and-built-ins)
       * Global variables and entity fields
