@@ -1,3 +1,5 @@
+<!-- Enable word-wrap -->
+
 # Table of Contents
 
 1. [Getting Started](chapter-1.md)
