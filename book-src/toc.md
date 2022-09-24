@@ -17,12 +17,14 @@
       * Build process and the format of progs.src
       * Each source file and their purpose
 
-   2. [Globals, Fields, and Built-ins](chapter-2.md#globals-fields-and-built-ins)
-      * Global variables and entity fields
-        * Syntax and types
-      * Overview of defs.qc, including brief overview of the built-ins
+   2. [Variables](chapter-2.md#variables)
+      * Introduction to declarations and global varaibles
+      * Description of the types of variables
 
-   3. [User-Defined Functions](chapter-2.md#user-defined-functions)
+   3. [Fields](chapter-2.md#fields)
+      * Declaration of entity fields
+
+   3. [Functions](chapter-2.md#functions)
       * Function declaration syntax
       * Overview of subs.qc
 
